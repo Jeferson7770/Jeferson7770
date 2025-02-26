@@ -12,8 +12,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
   - <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="20"/> PHP  
 - 🗄️ **Banco de Dados:**  
   - <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20"/> MySQL  
-- 🛡️ **Boas práticas:**  
-  - <img src="https://img.icons8.com/ios-filled/50/000000/lock.png" width="20"/> Segurança  
 
 ## 📌 Vamos conectar?  
 🔗 [LinkedIn](https://www.linkedin.com/in/jefersonmoreiradev/) | 🌎 [Portfólio](https://site-jm-studio.vercel.app) 
