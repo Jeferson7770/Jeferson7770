@@ -11,7 +11,17 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 - 💾 **Backend:**  
   - <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="20"/> PHP  
 - 🗄️ **Banco de Dados:**  
-  - <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20"/> MySQL  
+  - <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20"/> MySQL
+
+# 📊 Meu Engajamento no GitHub
+
+## 🚀 Contribuições
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?Jeferson7770&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+
+## 🏆 Atividade no GitHub
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?Jeferson7770&hide_title=true&theme=radical)
 
 ## 📌 Vamos conectar?  
 🔗 [LinkedIn](https://www.linkedin.com/in/jefersonmoreiradev/) | 🌎 [Portfólio](https://site-jm-studio.vercel.app) 
