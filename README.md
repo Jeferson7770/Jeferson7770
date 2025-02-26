@@ -17,11 +17,11 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 
 ## 🚀 Contribuições
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?Jeferson7770&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Jeferson7770&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
 
 ## 🏆 Atividade no GitHub
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?Jeferson7770&hide_title=true&theme=radical)
+![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Jeferson7770&hide_title=true&theme=radical)
 
 ## 📌 Vamos conectar?  
 🔗 [LinkedIn](https://www.linkedin.com/in/jefersonmoreiradev/) | 🌎 [Portfólio](https://site-jm-studio.vercel.app) 
