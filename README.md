@@ -8,7 +8,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
   - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/> HTML  
   - <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS  
   - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript  
-  - <img src="https://img.icons8.com/ios-filled/50/000000/react.png" width="20"/> React  
 - 💾 **Backend:**  
   - <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="20"/> PHP  
   - <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" width="20"/> Node.js  
