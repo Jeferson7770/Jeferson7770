@@ -13,11 +13,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 - 🗄️ **Banco de Dados:**  
   - <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20"/> MySQL
 
-# 📊 Meu Engajamento no GitHub
-
-## 🚀 Contribuições
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeferson7770&show_icons=true&count_private=true&theme=radical)
+## 🚀 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical)
 
