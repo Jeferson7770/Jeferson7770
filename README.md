@@ -23,8 +23,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 ---
 
 ## 📌 Projetos em Destaque  
-🔹 [**Projeto 1 - Nome do Projeto**](https://github.com/Jeferson7770/projeto1) – Breve descrição do que ele faz.  
-🔹 [**Projeto 2 - Nome do Projeto**](https://github.com/Jeferson7770/projeto2) – Breve descrição do que ele faz.  
+🔹 [**Projeto 1 - JM Studio**](https://site-jm-studio.vercel.app) – O site JM Studio apresenta serviços de animação, produção audiovisual e apresentações profissionais para empresas que buscam impacto visual. Ele inclui seções sobre a empresa, serviços oferecidos, portfólio com exemplos de trabalhos, e um formulário de contato. Além disso, disponibiliza links para redes sociais e um mapa de localização.  
 
 ---
 
