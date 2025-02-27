@@ -3,25 +3,42 @@
 ## 💻 Sobre mim  
 Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busco criar soluções eficientes, intuitivas e escaláveis, sempre com foco na melhor experiência do usuário.
 
-## 🚀 Tecnologias & Habilidades  
-- 🖥️ **Frontend:**  
-  - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/> HTML  
-  - <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS  
-  - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript  
-- 💾 **Backend:**  
-  - <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="20"/> PHP  
-- 🗄️ **Banco de Dados:**  
-  - <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20"/> MySQL
+## 🚀 Tecnologias que utilizo  
 
-## 🚀 Linguagens mais usadas
+### 🖥️ **Frontend**  
+| HTML | CSS | JavaScript |
+|------|-----|------------|
+| <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"/> |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical)
+### 💾 **Backend**  
+| PHP | Python | Node.js |
+|-----|--------|---------|
+| <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/python.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/> |
 
-
-## 📌 Vamos nos conectar?  
-🔗 [LinkedIn](https://www.linkedin.com/in/jefersonmoreiradev/) | 🌎 [Portfólio](https://site-jm-studio.vercel.app) 
+### 🗄️ **Banco de Dados**  
+| MySQL | PostgreSQL |
+|--------|------------|
+| <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="30"/> |
 
 ---
-💡 Sempre aberto a novos aprendizados e colaborações! 🚀  
+
+## 📌 Projetos em Destaque  
+🔹 [**Projeto 1 - Nome do Projeto**](https://github.com/Jeferson7770/projeto1) – Breve descrição do que ele faz.  
+🔹 [**Projeto 2 - Nome do Projeto**](https://github.com/Jeferson7770/projeto2) – Breve descrição do que ele faz.  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeferson7770&show_icons=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical)  
+
+---
+
+## 📌 Vamos nos conectar?  
+🔗 [LinkedIn](https://www.linkedin.com/in/jefersonmoreiradev/) | 🌎 [Portfólio](https://site-jm-studio.vercel.app)  
+
+💡 **Sempre aberto a novos aprendizados e colaborações!** 🚀  
 
 #FullStack #WebDevelopment #OpenSource #GitHub  
+
