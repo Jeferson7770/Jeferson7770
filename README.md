@@ -11,14 +11,14 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 | <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"/> |
 
 ### 💾 **Backend**  
-| PHP | Python | Node.js |
-|-----|--------|---------|
-| <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/python.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/> |
+| PHP | Node.js |
+|-----|--------|
+| <img src="https://img.icons8.com/ios-filled/50/000000/php.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/> |
 
 ### 🗄️ **Banco de Dados**  
-| MySQL | PostgreSQL |
-|--------|------------|
-| <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="30"/> |
+| MySQL |  
+|--------|
+| <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="30"/> | 
 
 ---
 
@@ -29,7 +29,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeferson7770&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical)  
 
 ---
