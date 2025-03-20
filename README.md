@@ -61,5 +61,5 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 
 📧 **E-mail:** jefersonmoreira770@gmail.com  
 
-💡 *Aberto a novos desafio
+💡 *Aberto a novos desafios
 
