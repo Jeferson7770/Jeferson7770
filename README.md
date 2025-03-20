@@ -49,9 +49,9 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-seuusuario.vercel.app/api?username=Jeferson7770&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-seuusuario.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical&count_private=true" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson7770&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical&count_private=true&cache_seconds=1800" />
+</div>  
 
 ---
 
