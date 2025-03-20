@@ -43,7 +43,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 
 ### 📱 **Agenda de Contatos** –  
 🔹 [**Agenda de Contatos**](https://agenda-de-contatos-rosy-chi.vercel.app) – Um aplicativo web para gerenciar contatos de forma eficiente. Permite adicionar, editar e excluir contatos com validações de entrada para garantir dados corretos.
-📌 *Mais projetos em breve...* 🚀  
 
 ---
 
@@ -59,7 +58,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 ## 🌍 Vamos nos conectar?  
 
 📌 [**LinkedIn**](https://www.linkedin.com/in/jefersonmoreiradev/)  
-🌎 [**Portfólio**](https://site-jm-studio.vercel.app)  
 
 📧 **E-mail:** jefersonmoreira770@gmail.com  
 
