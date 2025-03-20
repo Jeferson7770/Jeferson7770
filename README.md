@@ -1,7 +1,5 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!  
 
-🚀 **Desenvolvedor Full Stack | Entusiasta de tecnologia | Criador de soluções inovadoras**  
-
 ---
 
 ## 🧑‍💻 Sobre mim  
