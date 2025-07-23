@@ -41,7 +41,13 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Busc
 ### 🏆 **JM Studio**  
 🔹 [**JM Studio**](https://site-jm-studio.vercel.app) – Uma plataforma moderna para serviços de animação e produção audiovisual. O site inclui um portfólio interativo, formulário de contato e design responsivo.  
 
-### 📱 **Agenda de Contatos** –  
+### 💼 **JM Advocacia**  
+🔹 [**JM Advocacia**](https://site-jm-advocacia.vercel.app) – Site institucional profissional para escritório de advocacia, com design sóbrio, estrutura clara e compatibilidade com dispositivos móveis.  
+
+### 📸 **JM Fotografia**  
+🔹 [**JM Fotografia**](https://site-jm-fotografia.vercel.app) – Portfólio de fotografia profissional com visual emocional e foco em experiência do usuário, responsivo e com navegação fluida.  
+
+### 📱 **Agenda de Contatos**  
 🔹 [**Agenda de Contatos**](https://agenda-de-contatos-rosy-chi.vercel.app) – Um aplicativo web para gerenciar contatos de forma eficiente. Permite adicionar, editar e excluir contatos com validações de entrada para garantir dados corretos.
 
 ---
