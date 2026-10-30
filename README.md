@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Full Stack Jr | Python & React
 
-Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Especialista Full Stack Python (EBAC). Tenho experiência prática no desenvolvimento de aplicações web de ponta a ponta, desde a modelagem de banco de dados e arquitetura de APIs RESTful até a criação de interfaces modernas, otimização de assets e deploy automatizado.
+Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Desenvolvedor Full Stack Python (EBAC). Tenho experiência prática no desenvolvimento de aplicações web de ponta a ponta, desde a modelagem de banco de dados e arquitetura de APIs RESTful até a criação de interfaces modernas, otimização de assets e deploy automatizado.
 
 🌐 *Site Pessoal:* [jeferson-moreira.vercel.app](https://jeferson-moreira.vercel.app/)  
 🎯 *Objetivo:* Busco oportunidades como *Desenvolvedor Full Stack Jr / Desenvolvedor Python Jr* em times focados em engenharia de software, qualidade de código e inovação.
@@ -21,12 +21,6 @@ Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Especialista
 > *Central de apresentação profissional com vitrine de projetos, habilidades e contato.*
 - *Stack & Deploy:* HTML5, CSS3, JavaScript, Vercel.
 
-### 🎬 [JM Prime · Streaming VOD](https://jm-filmes.vercel.app/)
-> *Plataforma de Video On Demand (VOD) focada em alta performance e UX imersiva.*
-- *Arquitetura & Design:* Interface em Dark Mode nativo com navegação fluida, trailers on-hover e consumo assíncrono da API do YouTube para execução de mídias.
-- *Otimização & Tooling:* Pipeline automatizado de compilação e minificação de assets utilizando Gulp.js e SCSS.
-- *Deploy:* Vercel.
-
 ### 🐦 [Clone do Twitter](https://twitter-frontend-onhj.onrender.com/)
 > *Rede Social Full Stack completa com feed dinâmico e interações em tempo real.*
 - *Back-End:* API RESTful em Python e Django REST Framework, autenticação JWT, perfis e sistema de seguidores. Banco de dados PostgreSQL/SQLite.
@@ -39,13 +33,18 @@ Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Especialista
 - *Checkout:* Validações dinâmicas de formulários com Formik e Yup integradas a APIs RESTful.
 - *Deploy:* Vercel.
 
+  ### 🎬 [JM Prime · Streaming VOD](https://jm-filmes.vercel.app/)
+> *Plataforma de Video On Demand (VOD) focada em alta performance e UX imersiva.*
+- *Arquitetura & Design:* Interface em Dark Mode nativo com navegação fluida, trailers on-hover e consumo assíncrono da API do YouTube para execução de mídias.
+- *Otimização & Tooling:* Pipeline automatizado de compilação e minificação de assets utilizando Gulp.js e SCSS.
+- *Deploy:* Vercel.
+
 ### 💼 Projetos Voluntários & Iniciativas Sociais (2025)
 - 🎥 **[Héllen Anjos - Personal Branding](https://hellenanjos.com.br/index.html):** Vitrine digital interativa para apresentação audiovisual. Interface responsiva em HTML5, CSS3, Bootstrap e jQuery com script PHP no back-end para processamento seguro de formulários. Hospedado na Hostinger.
 - 🛡️ **[Elimar Segurança & Facilities](https://elimar-seguranca-e-facilities.vercel.app/):** Plataforma web focada em apresentação de serviços e usabilidade. Manipulação de DOM via JS/jQuery e integração back-end para envio de e-mails transacionais. Hospedado na Vercel.
 
 ### 🎨 Outros Projetos & Experimentos
 - 🎨 *[JM Studio](https://site-jm-studio.vercel.app):* Plataforma para serviços de animação e audiovisual.
-- ⚖️ *[JM Advocacia](https://site-jm-advocacia.vercel.app):* Site institucional sóbrio e corporativo.
 - 📸 *[JM Fotografia](https://site-jm-fotografia.vercel.app):* Portfólio responsivo voltado para exibição visual.
 - 📇 *[Agenda de Contatos](https://agenda-de-contatos-rosy-chi.vercel.app):* CRUD completo com validações em React.
 
