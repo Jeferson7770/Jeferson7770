@@ -76,7 +76,7 @@ Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Desenvolvedo
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Jeferson7770&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
+  <img height="165rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeferson7770&layout=compact&theme=radical&hide=html,css" alt="Linguagens Principais" />
   <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeferson7770&theme=radical" alt="GitHub Streak" />
 </div>
 
