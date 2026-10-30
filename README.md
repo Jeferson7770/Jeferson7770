@@ -42,12 +42,6 @@ Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Desenvolvedo
 ### 💼 Projetos Voluntários & Iniciativas Sociais (2025)
 - 🎥 **[Héllen Anjos - Personal Branding](https://hellenanjos.com.br/index.html):** Vitrine digital interativa para apresentação audiovisual. Interface responsiva em HTML5, CSS3, Bootstrap e jQuery com script PHP no back-end para processamento seguro de formulários. Hospedado na Hostinger.
 - 🛡️ **[Elimar Segurança & Facilities](https://elimar-seguranca-e-facilities.vercel.app/):** Plataforma web focada em apresentação de serviços e usabilidade. Manipulação de DOM via JS/jQuery e integração back-end para envio de e-mails transacionais. Hospedado na Vercel.
-
-### 🎨 Outros Projetos & Experimentos
-- 🎨 *[JM Studio](https://site-jm-studio.vercel.app):* Plataforma para serviços de animação e audiovisual.
-- 📸 *[JM Fotografia](https://site-jm-fotografia.vercel.app):* Portfólio responsivo voltado para exibição visual.
-- 📇 *[Agenda de Contatos](https://agenda-de-contatos-rosy-chi.vercel.app):* CRUD completo com validações em React.
-
 ---
 
 ## 🛠️ Stacks & Ferramentas
