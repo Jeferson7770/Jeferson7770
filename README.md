@@ -18,7 +18,7 @@ Formado em Gestão da TI (UNIP), Técnico em Informática (Senac) e Desenvolvedo
 ## 🚀 Projetos em Destaque
 
 ### 🌐 [Site Pessoal / Portfólio](https://jeferson-moreira.vercel.app/)
-> *Central de apresentação profissional com vitrine de projetos, habilidades e contato.*
+> *Central de apresentação com vitrine de projetos, habilidades e contato.*
 - *Stack & Deploy:* HTML5, CSS3, JavaScript, Vercel.
 
 ### 🐦 [Clone do Twitter](https://twitter-frontend-onhj.onrender.com/)
